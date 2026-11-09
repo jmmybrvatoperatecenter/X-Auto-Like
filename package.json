@@ -1,0 +1,10 @@
+{
+  "name": "x-auto-like",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node auto-like.js"
+  },
+  "dependencies": {
+    "playwright": "^1.40.0"
+  }
+}
