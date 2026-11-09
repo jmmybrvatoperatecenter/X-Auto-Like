@@ -2,7 +2,7 @@ name: Auto Like & Retweet
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '0 */3 * * *' # Runs automatically every 3 hours
   workflow_dispatch:
 
 jobs:
